@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "redusprac",
+    "slug": "redusprac",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "redusprac"
+}
